@@ -11,3 +11,20 @@ This repository contains projects and exercises I completed in Summer 2026 - Fal
 - FastAPI
 
 The goal is to build practical skills through small projects and incremental learning.
+
+# Study Tracker
+
+This is a small Python project which stores user inputted data to track study habits.
+
+Current features:
+- User inputs for subject and minutes
+- List of subjects and time studied
+- Total minutes studied
+- Most studied subject and longest time
+
+In Development:
+- Error Handling of user-inputted data
+
+# LeetCode
+
+A collection of LeetCode problems in Python. Tracks my progress as I tackle more advanced Data Structures and Algorithms problems and learn how to optimize my code for time efficiency
