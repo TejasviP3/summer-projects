@@ -16,13 +16,13 @@ The goal is to build practical skills through small projects and incremental lea
 
 This is a small Python project which stores user inputted data to track study habits.
 
-# Current features:
+### Current features:
 - User inputs for subject and minutes
 - List of subjects and time studied
 - Total minutes studied
 - Most studied subject and longest time
 
-# In Development:
+### In Development:
 - Error Handling of user-inputted data
 
 ## LeetCode
