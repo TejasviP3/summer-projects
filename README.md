@@ -23,13 +23,15 @@ This is a small Python project which stores user inputted data to track study ha
 - Most studied subject and longest time
 
 ### In Development
-- Error Handling of user-inputted data
+- Error-handling of user-inputted data
+- Subject totals (adds up all sessions for a given subject)
+- Handle output for when user immediately enters "quit"
 
 ## LeetCode
 
 A collection of LeetCode problems in Python. Tracks my progress as I tackle more advanced Data Structures and Algorithms problems and learn how to optimize my code for time efficiency
 
 #### Possible Future Updates
-1. Separate different languages of LeetCode problems (i.e. C++, Python3, etc.)
-2. Separate problems by category of problem and primary Data Structure used
-3. Separate problems by difficulty level (Easy, Medium, Hard)
+- Separate different languages of LeetCode problems (i.e. C++, Python3, etc.)
+-  Separate problems by category of problem and primary Data Structure used
+-  Separate problems by difficulty level (Easy, Medium, Hard)
